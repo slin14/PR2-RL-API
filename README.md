@@ -8,4 +8,4 @@ To run:
 
 `RelWithDebInfo\myMdlDemo.exe`
 
-[see tutorial] (https://www.roboticslibrary.org/tutorials/first-steps-windows/)
+[see tutorial](https://www.roboticslibrary.org/tutorials/first-steps-windows/)
